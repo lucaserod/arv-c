@@ -6,3 +6,7 @@ VOCE IRA CRIAR UM ARQUIVO.TXT E COLOCAR DENTRO DELE ASSIM COMO NOS EXEMPLOS A BA
 345678 Pedro Souza
 456789 Ana Lima
 567890 Lucas Santos
+
+
+
+NO CODIGO ESTA SE REFERINDO AO "dados.txt" , mas é so mudar se o nome do arquivo armazenado for diferente
